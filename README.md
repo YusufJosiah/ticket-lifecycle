@@ -36,7 +36,7 @@ Users create tickets through the Support Center interface. It is at this point t
 <img src="https://i.imgur.com/iHWFgma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If the assignment of tickets has not been automated, an administrator(s) would be responsible for the manual assignment of tickets. Also, the administrator(s) will ensure that priorities have been set in a reasonable manner.
+If the assignment of tickets is not being done automatically, an administrator or administrators would be responsible for the manual assignment of tickets. Also, the administrator or administrators will ensure that ticket priorities are in a reasonable manner.
 </p>
 <br />
 
